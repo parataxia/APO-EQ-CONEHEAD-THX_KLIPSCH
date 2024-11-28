@@ -1,6 +1,7 @@
 # APO-EQ-CONEHEAD-THX_KLIPSCH
 Comes with bundled settings to simply import from File Explorer mostly!
 
+![4t68cihjelyd1](https://github.com/user-attachments/assets/d254af3e-b458-4a76-bbe9-f399d9408b83)
 
 `' Install APO Equalizer and Peace concurrently, apply peace.txt included as preset entirely ("C:\Program Files\EqualizerAPO\config") along with config.txt in same directory structure.. Load VSTs using wrapper within APO Control Panel, and apply IR file as well which should be present after loading both config files.. Comes with three bitrates (48/92/192) to fulfill each setting of given set up.. Perfect conehead set up for 2.1 once I expanded with gating and the rest, about ~40 settings included. 
 
